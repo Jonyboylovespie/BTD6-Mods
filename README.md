@@ -8,7 +8,7 @@
 <table style="table-layout:fixed">
     <tr>
         <td width="25%" align="center">
-            <h2>(Placeholder)</h2>
+            <h2>Paragon Totem In Shop</h2>
         </td>
         <td>
            (Placeholder) 
