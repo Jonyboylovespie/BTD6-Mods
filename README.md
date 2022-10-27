@@ -13,7 +13,7 @@
         <td>
            This mod adds Geraldo's paragon totem into shop. If you go into mod settings you can turn on OP mode which will instantly get you degree 100 with it down.
         </td>
-        <td width="12%">
+        <td width="20%">
             <a href="https://github.com/Jonyboylovespie/BTD6-Mods/blob/main/Mods/ParagonTotem.dll?raw=true"><img alt="Download" src="https://github.com/Darinsky/Bloons-TD6-Mods/blob/main/download_small.png?raw=true"></a>
         </td>
     </tr>
