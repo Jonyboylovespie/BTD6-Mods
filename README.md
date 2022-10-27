@@ -2,12 +2,13 @@
 <p align="center"><b>Get <a href="https://github.com/gurrenm3/BTD-Mod-Helper/releases/latest">BTD6 Mod Helper</a> installed for my mods to work. If you don't know how to mod BTD6, watch my <a href="https://www.youtube.com/watch?v=xHQzRt8Z6YE">YT tutorial</a>.</b>
 </p>
 
-
+https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png
 
 
 <table style="table-layout:fixed">
     <tr>
         <td width="25%" align="center">
+            <img align="left"  alt="Icon" width="30%" src="https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png">
             <h2>Paragon Totem In Shop</h2>
         </td>
         <td>
