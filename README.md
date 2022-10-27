@@ -7,7 +7,6 @@ https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/Parago
 <table style="table-layout:fixed">
     <tr>
         <td width="25%" align="center">
-            <img align="left"  alt="Icon" width="30%" src="https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png">
             <h2>Paragon Totem In Shop</h2>
         </td>
         <td>
