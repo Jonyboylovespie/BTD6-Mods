@@ -4,7 +4,22 @@
 
 https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png
 
-
+<table>
+    <tr>
+        <td width="30%" align="center">
+            <img align="left"  alt="Icon" width="30%" src="https://raw.githubusercontent.com/doombubbles/ultimate-crosspathing/using-mod-helper-3.0/Icon.png">
+            <h2>Ultimate Crosspathing</h2>
+        </td>
+        <td>
+            An experimental mod that allows for full crosspathing capability, 111s and 555s as well as everything in between.
+        </td>
+        <td width="10%">
+            <a href="https://github.com/doombubbles/ultimate-crosspathing#readme"><img alt="Info" src="https://github.com/doombubbles/BTD6-Mods/blob/main/info.png?raw=true"></a>
+        </td>
+        <td width="11%">
+            <a href="https://github.com/doombubbles/ultimate-crosspathing/releases/latest/download/UltimateCrosspathing.dll"><img alt="Download" src="https://github.com/doombubbles/BTD6-Mods/blob/main/download_small.png?raw=true"></a>
+        </td>
+    </tr>
 <table style="table-layout:fixed">
     <tr>
         <td width="25%" align="center">
