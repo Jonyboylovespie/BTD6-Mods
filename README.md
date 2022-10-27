@@ -4,19 +4,6 @@
 
 https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png
 
-<table>
-    <tr>
-        <td width="35%" align="center">
-            <img align="left"  alt="Icon" width="30%" src="https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png">
-            <h2>Paragon Totem In Shop</h2>
-        </td>
-        <td>
-            This mod adds Geraldo's paragon totem into shop. If you go into mod settings you can turn on OP mode which will instantly get you degree 100 with it down.
-        </td>
-        <td width="11%">
-            <a href="https://github.com/Jonyboylovespie/BTD6-Mods/blob/main/Mods/ParagonTotem.dll?raw=true"><img alt="Download" src="https://github.com/doombubbles/BTD6-Mods/blob/main/download_small.png?raw=true"></a>
-        </td>
-    </tr>
 <table style="table-layout:fixed">
     <tr>
         <td width="25%" align="center">
