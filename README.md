@@ -7,7 +7,7 @@
         <td width="20%" align="left">
             <img align="left"  alt="Icon" width="100%" src="https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png">
         </td>
-        <td width="20%" align="center">
+        <td width="15%" align="center">
             <h2>Paragon Totem In Shop</h2>
         </td>
         <td>
