@@ -19,14 +19,3 @@ https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/Parago
             <a href="https://github.com/Jonyboylovespie/BTD6-Mods/blob/main/Mods/ParagonTotem.dll?raw=true"><img alt="Download" src="https://github.com/Darinsky/Bloons-TD6-Mods/blob/main/download_small.png?raw=true"></a>
         </td>
     </tr>
-    <tr>
-        <td width="25%" align="center">
-            <h2>Banana Farm Paragon (Un-Finsihed)</h2>
-        </td>
-        <td>
-           This mod adds a paragon upgrade to the banana farm tower. You can toggle this mod from balanced to OP in mod settings. (Un-Finished)
-        </td>
-        <td width="12%">
-            <a href=""><img alt="Download" src="https://github.com/Darinsky/Bloons-TD6-Mods/blob/main/download_small.png?raw=true"></a>
-        </td>
-    </tr>
