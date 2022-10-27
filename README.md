@@ -7,17 +7,14 @@ https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/Parago
 <table>
     <tr>
         <td width="30%" align="center">
-            <img align="left"  alt="Icon" width="30%" src="https://raw.githubusercontent.com/doombubbles/ultimate-crosspathing/using-mod-helper-3.0/Icon.png">
-            <h2>Ultimate Crosspathing</h2>
+            <img align="left"  alt="Icon" width="30%" src="https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png">
+            <h2>Paragon Totem In Shop</h2>
         </td>
         <td>
-            An experimental mod that allows for full crosspathing capability, 111s and 555s as well as everything in between.
-        </td>
-        <td width="10%">
-            <a href="https://github.com/doombubbles/ultimate-crosspathing#readme"><img alt="Info" src="https://github.com/doombubbles/BTD6-Mods/blob/main/info.png?raw=true"></a>
+            This mod adds Geraldo's paragon totem into shop. If you go into mod settings you can turn on OP mode which will instantly get you degree 100 with it down.
         </td>
         <td width="11%">
-            <a href="https://github.com/doombubbles/ultimate-crosspathing/releases/latest/download/UltimateCrosspathing.dll"><img alt="Download" src="https://github.com/doombubbles/BTD6-Mods/blob/main/download_small.png?raw=true"></a>
+            <a href="https://github.com/Jonyboylovespie/BTD6-Mods/blob/main/Mods/ParagonTotem.dll?raw=true"><img alt="Download" src="https://github.com/doombubbles/BTD6-Mods/blob/main/download_small.png?raw=true"></a>
         </td>
     </tr>
 <table style="table-layout:fixed">
