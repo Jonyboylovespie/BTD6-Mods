@@ -5,7 +5,7 @@
 <table style="table-layout:fixed">
     <tr>
         <td width="20%" align="left">
-            <img align="left"  alt="Icon" width="100%" src="https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png">
+            <img align="left"  alt="Icon" width="100%" src="https://github.com/Jonyboylovespie/AllOneBloonDisplay/blob/main/RedBloon.png?raw=true">
         </td>
         <td width="15%" align="center">
             <h2>All Bloons One Display</h2>
