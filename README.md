@@ -5,7 +5,7 @@
 <table style="table-layout:fixed">
     <tr>
         <td width="20%" align="center">
-            <img align="center"  alt="Icon" width="100%" src="https://github.com/Jonyboylovespie/AllOneBloonDisplay/blob/main/RedBloon.png?raw=true">
+            <img align="center"  alt="Icon" width="50%" src="https://github.com/Jonyboylovespie/AllOneBloonDisplay/blob/main/RedBloon.png?raw=true">
         </td>
         <td width="15%" align="center">
             <h2>All Bloons One Display</h2>
