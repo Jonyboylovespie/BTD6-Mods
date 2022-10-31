@@ -19,6 +19,20 @@
     </tr>
     <tr>
         <td width="20%" align="left">
+            <img align="left"  alt="Icon" width="100%" src="https://github.com/Jonyboylovespie/BananaFarmParagon/blob/main/BananaFarmParagon-Portrait.png?raw=true">
+        </td>
+        <td width="15%" align="center">
+            <h2>Banana Farm Paragon</h2>
+        </td>
+        <td>
+           This mod adds a paragon upgrade to the banana farm. You can toggle this mod from balanced to OP in mod settings. Thank you PipDragon for doing (most of) the texture, thank you Keetsoona for doing the upgrade icon and thank you Connor Conntroller for doing the tower portrait.
+        </td>
+        <td width="14%">
+            <a href="https://github.com/Jonyboylovespie/BTD6-Mods/blob/main/Mods/BananaFarmParagon.dll?raw=true"><img alt="Download" src="https://github.com/Darinsky/Bloons-TD6-Mods/blob/main/download_small.png?raw=true"></a>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%" align="left">
             <img align="left"  alt="Icon" width="100%" src="https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png">
         </td>
         <td width="15%" align="center">
