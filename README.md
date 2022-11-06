@@ -33,6 +33,20 @@
     </tr>
     <tr>
         <td width="20%" align="left">
+            <img align="left"  alt="Icon" width="100%" src="https://raw.githubusercontent.com/Jonyboylovespie/OPLegendOfTheNight/main/OPLegendOfTheNightIcon.png">
+        </td>
+        <td width="15%" align="center">
+            <h2>OP Legend Of The Night</h2>
+        </td>
+        <td>
+           Makes the legend of the night portal suck up anything that leaks, and I mean ANYTHING. You can change the price of the upgrade in mod settings.
+        </td>
+        <td width="14%">
+            <a href="https://github.com/Jonyboylovespie/BTD6-Mods/blob/main/Mods/OPLegendOfTheNight.dll?raw=true"><img alt="Download" src="https://github.com/Darinsky/Bloons-TD6-Mods/blob/main/download_small.png?raw=true"></a>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%" align="left">
             <img align="left"  alt="Icon" width="100%" src="https://raw.githubusercontent.com/Jonyboylovespie/ParagonTotemInShop/main/ParagonPowerTotemPortrait.png">
         </td>
         <td width="15%" align="center">
