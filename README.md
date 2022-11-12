@@ -47,7 +47,7 @@
     </tr>
     <tr>
         <td width="20%" align="left">
-            <img align="left"  alt="Icon" width="100%" src="https://raw.githubusercontent.com/Jonyboylovespie/MilitaryParagons/main/Displays/Icon.png">
+            <img align="left"  alt="Icon" width="100%" src="https://raw.githubusercontent.com/Jonyboylovespie/MilitaryParagons/main/Icon.png">
         </td>
         <td width="15%" align="center">
             <h2>Military Paragons</h2>
