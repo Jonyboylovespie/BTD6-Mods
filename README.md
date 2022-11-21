@@ -87,3 +87,17 @@
             <a href="https://github.com/Jonyboylovespie/BTD6-Mods/blob/main/Mods/ParagonTotem.dll?raw=true"><img alt="Download" src="https://github.com/Darinsky/Bloons-TD6-Mods/blob/main/download_small.png?raw=true"></a>
         </td>
     </tr>
+    <tr>
+        <td width="20%" align="left">
+            <img align="left"  alt="Icon" width="100%" src="https://raw.githubusercontent.com/Jonyboylovespie/PrimaryParagons/main/Icon.png">
+        </td>
+        <td width="15%" align="center">
+            <h2>Primary Paragons</h2>
+        </td>
+        <td>
+           This mod adds paragons for all of the primary towers, and adds OP versions to each, toggleable in mod settings. You can also change the price of each paragon in mod settings. This is originally Greenphx's mod, I have just fixed it to work in the newer BTD6 versions and added new features.
+        </td>
+        <td width="14%">
+            <a href="https://github.com/Jonyboylovespie/BTD6-Mods/blob/main/Mods/PrimaryParagons.dll?raw=true"><img alt="Download" src="https://github.com/Darinsky/Bloons-TD6-Mods/blob/main/download_small.png?raw=true"></a>
+        </td>
+    </tr>
