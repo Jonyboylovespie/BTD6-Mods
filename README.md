@@ -4,20 +4,6 @@
 
 <table style="table-layout:fixed">
     <tr>
-        <td width="20%" align="center">
-            <img align="center"  alt="Icon" width="60%" src="https://github.com/Jonyboylovespie/AllOneBloonDisplay/blob/main/RedBloon.png?raw=true">
-        </td>
-        <td width="15%" align="center">
-            <h2>All Bloons One Display</h2>
-        </td>
-        <td>
-           This mod makes all bloons have the same display. (The display for which bloon you want can be changed in mod settings.)
-        </td>
-        <td width="14%">
-            <a href="https://github.com/Jonyboylovespie/BTD6-Mods/blob/main/Mods/AllOneBloonDisplay.dll?raw=true"><img alt="Download" src="https://github.com/Darinsky/Bloons-TD6-Mods/blob/main/download_small.png?raw=true"></a>
-        </td>
-    </tr>
-    <tr>
         <td width="20%" align="left">
             <img align="left"  alt="Icon" width="100%" src="https://github.com/Jonyboylovespie/BananaFarmParagon/blob/main/BananaFarmParagon-Portrait.png?raw=true">
         </td>
